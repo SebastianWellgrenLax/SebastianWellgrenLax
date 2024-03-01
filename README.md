@@ -7,6 +7,6 @@
 
 ## Projekt:
 ### Gymnasieprojekt inom webbserverutveckling
-[Webbsida]([https://github.com/boxskeppet/Intersection-on-I-O-shield](https://github.com/SebastianWellgrenLax/Gymansieprojekt-webbserver)https://github.com/SebastianWellgrenLax/Gymansieprojekt-webbserver)
+[Webbsida]([https://github.com/SebastianWellgrenLax/Gymansieprojekt-webbserver])
 
 Programmerade en prisjämförelsesajt som hämtade information från andra webbshopar med API och sedan jämförde dem
